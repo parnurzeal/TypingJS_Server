@@ -1,4 +1,6 @@
-EasyRTC Server Example
+This server code is taken from EasyRTC which has BSD 2 license
+
+TypingJS Server
 ======================
 
 This folder contains all the files you'll need to create a simple server with EasyRTC, Express, and Socket.io. You can copy these files where you wish.
